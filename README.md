@@ -1,4 +1,4 @@
-# Twitter-Crawler
+# Twitter Crawler
 
 This project is only meant for educational purposes.
 
